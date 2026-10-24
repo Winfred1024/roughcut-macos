@@ -1,0 +1,2239 @@
+{
+ "types": {
+  "产品细节": {
+   "n": 19,
+   "font_size_median": 11.0,
+   "font_size_p10": 11.0,
+   "font_size_p90": 11.0,
+   "font_size_min": 11,
+   "font_size_max": 11,
+   "font_size_mode": [
+    [
+     11,
+     19
+    ]
+   ],
+   "chars_median": 5.0,
+   "chars_p10": 4.0,
+   "chars_p90": 8.0,
+   "chars_min": 3,
+   "chars_max": 9,
+   "chars_buckets": {
+    "<=4": 3,
+    "5-8": 15,
+    "9-12": 1,
+    "13-16": 0,
+    ">16": 0
+   },
+   "dur_median": 1.53,
+   "dur_p90": 1.81,
+   "y_median": -0.29,
+   "y_p10": -0.29,
+   "y_p90": -0.29,
+   "screen_below_center_pct": 14.5,
+   "x_median": 0.0,
+   "white_pct": 100.0,
+   "colored_pct": 0.0,
+   "color_top": [
+    [
+     "#ffffff",
+     19
+    ]
+   ],
+   "shadow_pct": 100.0,
+   "stroke_pct": 0.0,
+   "bg_pct": 0.0,
+   "scale_gt1_pct": 0.0,
+   "anim_pct": 0.0,
+   "anim_dur_median": null,
+   "fonts": [
+    [
+     "抖音美好体",
+     19
+    ]
+   ],
+   "template_pct": 0.0,
+   "align": [
+    [
+     1,
+     19
+    ]
+   ]
+  },
+  "剧情演绎": {
+   "n": 308,
+   "font_size_median": 13.0,
+   "font_size_p10": 11.0,
+   "font_size_p90": 13.0,
+   "font_size_min": 8,
+   "font_size_max": 28,
+   "font_size_mode": [
+    [
+     13,
+     157
+    ],
+    [
+     11,
+     131
+    ],
+    [
+     8,
+     5
+    ]
+   ],
+   "chars_median": 7.0,
+   "chars_p10": 4.0,
+   "chars_p90": 10.0,
+   "chars_min": 1,
+   "chars_max": 31,
+   "chars_buckets": {
+    "<=4": 45,
+    "5-8": 168,
+    "9-12": 91,
+    "13-16": 2,
+    ">16": 2
+   },
+   "dur_median": 1.2,
+   "dur_p90": 2.5,
+   "y_median": -0.21,
+   "y_p10": -0.56,
+   "y_p90": -0.21,
+   "screen_below_center_pct": 10.5,
+   "x_median": 0.0,
+   "white_pct": 99.4,
+   "colored_pct": 0.6,
+   "color_top": [
+    [
+     "#ffffff",
+     306
+    ],
+    [
+     "#b71c1c",
+     2
+    ]
+   ],
+   "shadow_pct": 98.4,
+   "stroke_pct": 0.0,
+   "bg_pct": 1.3,
+   "scale_gt1_pct": 0.0,
+   "anim_pct": 4.5,
+   "anim_dur_median": 683.3,
+   "fonts": [
+    [
+     "新青年体",
+     160
+    ],
+    [
+     "抖音美好体",
+     60
+    ],
+    [
+     "金陵体",
+     6
+    ],
+    [
+     "特黑体",
+     3
+    ]
+   ],
+   "template_pct": 0.0,
+   "align": [
+    [
+     null,
+     306
+    ],
+    [
+     3,
+     2
+    ]
+   ]
+  },
+  "干货教学": {
+   "n": 544,
+   "font_size_median": 12.0,
+   "font_size_p10": 11.0,
+   "font_size_p90": 16.0,
+   "font_size_min": 10,
+   "font_size_max": 24,
+   "font_size_mode": [
+    [
+     12,
+     181
+    ],
+    [
+     11,
+     91
+    ],
+    [
+     13,
+     35
+    ]
+   ],
+   "chars_median": 6.0,
+   "chars_p10": 3.0,
+   "chars_p90": 9.7,
+   "chars_min": 2,
+   "chars_max": 23,
+   "chars_buckets": {
+    "<=4": 149,
+    "5-8": 282,
+    "9-12": 107,
+    "13-16": 4,
+    ">16": 2
+   },
+   "dur_median": 1.51,
+   "dur_p90": 2.73,
+   "y_median": -0.31,
+   "y_p10": -0.39,
+   "y_p90": -0.19,
+   "screen_below_center_pct": 15.5,
+   "x_median": 0.0,
+   "white_pct": 68.9,
+   "colored_pct": 31.1,
+   "color_top": [
+    [
+     "#ffffff",
+     375
+    ],
+    [
+     "#fff589",
+     77
+    ],
+    [
+     "#fe8a80",
+     31
+    ],
+    [
+     "#f9f3c4",
+     21
+    ],
+    [
+     "#ffbf17",
+     11
+    ],
+    [
+     "#fe5252",
+     9
+    ]
+   ],
+   "shadow_pct": 100.0,
+   "stroke_pct": 21.7,
+   "bg_pct": 0.0,
+   "scale_gt1_pct": 31.8,
+   "anim_pct": 59.6,
+   "anim_dur_median": 300.0,
+   "fonts": [
+    [
+     "字语云黑宋",
+     197
+    ],
+    [
+     "新青年体",
+     135
+    ],
+    [
+     "抖音美好体",
+     124
+    ],
+    [
+     "后现代体",
+     27
+    ]
+   ],
+   "template_pct": 0.0,
+   "align": [
+    [
+     null,
+     472
+    ],
+    [
+     1,
+     72
+    ]
+   ]
+  },
+  "招商发布": {
+   "n": 28,
+   "font_size_median": 8.0,
+   "font_size_p10": 8.0,
+   "font_size_p90": 8.0,
+   "font_size_min": 8,
+   "font_size_max": 8,
+   "font_size_mode": [
+    [
+     8,
+     24
+    ]
+   ],
+   "chars_median": 9.5,
+   "chars_p10": 4.0,
+   "chars_p90": 15.0,
+   "chars_min": 3,
+   "chars_max": 15,
+   "chars_buckets": {
+    "<=4": 4,
+    "5-8": 6,
+    "9-12": 14,
+    "13-16": 4,
+    ">16": 0
+   },
+   "dur_median": 1.8,
+   "dur_p90": 3.6,
+   "y_median": -0.05,
+   "y_p10": -0.05,
+   "y_p90": 0.25,
+   "screen_below_center_pct": 2.5,
+   "x_median": 0.0,
+   "white_pct": 85.7,
+   "colored_pct": 14.3,
+   "color_top": [
+    [
+     "#ffffff",
+     24
+    ],
+    [
+     "#fff589",
+     4
+    ]
+   ],
+   "shadow_pct": 100.0,
+   "stroke_pct": 0.0,
+   "bg_pct": 0.0,
+   "scale_gt1_pct": 0.0,
+   "anim_pct": 14.3,
+   "anim_dur_median": 500.0,
+   "fonts": [
+    [
+     "金陵体",
+     24
+    ],
+    [
+     "抖音美好体",
+     4
+    ]
+   ],
+   "template_pct": 0.0,
+   "align": [
+    [
+     null,
+     24
+    ],
+    [
+     3,
+     4
+    ]
+   ]
+  },
+  "活动促销": {
+   "n": 48,
+   "font_size_median": 8.0,
+   "font_size_p10": 8.0,
+   "font_size_p90": 15.0,
+   "font_size_min": 8,
+   "font_size_max": 24,
+   "font_size_mode": [
+    [
+     8,
+     26
+    ],
+    [
+     12,
+     15
+    ],
+    [
+     15,
+     2
+    ]
+   ],
+   "chars_median": 7.5,
+   "chars_p10": 4.0,
+   "chars_p90": 11.0,
+   "chars_min": 3,
+   "chars_max": 24,
+   "chars_buckets": {
+    "<=4": 6,
+    "5-8": 23,
+    "9-12": 17,
+    "13-16": 1,
+    ">16": 1
+   },
+   "dur_median": 1.58,
+   "dur_p90": 2.84,
+   "y_median": -0.37,
+   "y_p10": -0.39,
+   "y_p90": -0.29,
+   "screen_below_center_pct": 18.5,
+   "x_median": 0.0,
+   "white_pct": 77.1,
+   "colored_pct": 22.9,
+   "color_top": [
+    [
+     "#ffffff",
+     37
+    ],
+    [
+     "#ffde00",
+     5
+    ],
+    [
+     "#ff7100",
+     1
+    ],
+    [
+     "#ff8920",
+     1
+    ],
+    [
+     "#ff7bb0",
+     1
+    ],
+    [
+     "#ffbf17",
+     1
+    ]
+   ],
+   "shadow_pct": 100.0,
+   "stroke_pct": 0.0,
+   "bg_pct": 0.0,
+   "scale_gt1_pct": 60.4,
+   "anim_pct": 8.3,
+   "anim_dur_median": 450.0,
+   "fonts": [
+    [
+     "字语云黑宋",
+     26
+    ],
+    [
+     "新青年体",
+     15
+    ],
+    [
+     "俊雅体",
+     3
+    ],
+    [
+     "烟波宋",
+     1
+    ]
+   ],
+   "template_pct": 0.0,
+   "align": [
+    [
+     null,
+     30
+    ],
+    [
+     1,
+     18
+    ]
+   ]
+  },
+  "模板特效": {
+   "n": 21,
+   "font_size_median": null,
+   "font_size_p10": null,
+   "font_size_p90": null,
+   "font_size_min": null,
+   "font_size_max": null,
+   "font_size_mode": [],
+   "chars_median": 10.0,
+   "chars_p10": 4.0,
+   "chars_p90": 16.0,
+   "chars_min": 4,
+   "chars_max": 22,
+   "chars_buckets": {
+    "<=4": 3,
+    "5-8": 5,
+    "9-12": 8,
+    "13-16": 3,
+    ">16": 2
+   },
+   "dur_median": 1.07,
+   "dur_p90": 1.5,
+   "y_median": -0.25,
+   "y_p10": -0.25,
+   "y_p90": -0.18,
+   "screen_below_center_pct": 12.5,
+   "x_median": 0.0,
+   "white_pct": 9.5,
+   "colored_pct": 4.8,
+   "color_top": [
+    [
+     "",
+     18
+    ],
+    [
+     "#ffffff",
+     2
+    ],
+    [
+     "#fff589",
+     1
+    ]
+   ],
+   "shadow_pct": 14.3,
+   "stroke_pct": 0.0,
+   "bg_pct": 0.0,
+   "scale_gt1_pct": 28.6,
+   "anim_pct": 9.5,
+   "anim_dur_median": 426.2,
+   "fonts": [
+    [
+     "字语云黑宋",
+     3
+    ]
+   ],
+   "template_pct": 85.7,
+   "align": [
+    [
+     null,
+     21
+    ]
+   ]
+  },
+  "品牌情感": {
+   "n": 36,
+   "font_size_median": 12.0,
+   "font_size_p10": 12.0,
+   "font_size_p90": 18.0,
+   "font_size_min": 12,
+   "font_size_max": 18,
+   "font_size_mode": [
+    [
+     12,
+     20
+    ],
+    [
+     18,
+     13
+    ],
+    [
+     14,
+     3
+    ]
+   ],
+   "chars_median": 5.0,
+   "chars_p10": 4.0,
+   "chars_p90": 10.5,
+   "chars_min": 3,
+   "chars_max": 13,
+   "chars_buckets": {
+    "<=4": 12,
+    "5-8": 18,
+    "9-12": 5,
+    "13-16": 1,
+    ">16": 0
+   },
+   "dur_median": 1.2,
+   "dur_p90": 2.35,
+   "y_median": -0.39,
+   "y_p10": -0.39,
+   "y_p90": -0.13,
+   "screen_below_center_pct": 19.5,
+   "x_median": 0.0,
+   "white_pct": 66.7,
+   "colored_pct": 33.3,
+   "color_top": [
+    [
+     "#ffffff",
+     24
+    ],
+    [
+     "#ffbf17",
+     7
+    ],
+    [
+     "#fff589",
+     4
+    ],
+    [
+     "#ff287f",
+     1
+    ]
+   ],
+   "shadow_pct": 100.0,
+   "stroke_pct": 0.0,
+   "bg_pct": 0.0,
+   "scale_gt1_pct": 5.6,
+   "anim_pct": 38.9,
+   "anim_dur_median": 300.0,
+   "fonts": [
+    [
+     "字语云黑宋",
+     22
+    ],
+    [
+     "俊雅体",
+     10
+    ],
+    [
+     "金陵体",
+     3
+    ],
+    [
+     "得意黑",
+     1
+    ]
+   ],
+   "template_pct": 0.0,
+   "align": [
+    [
+     null,
+     36
+    ]
+   ]
+  },
+  "测评挑战": {
+   "n": 153,
+   "font_size_median": 13.0,
+   "font_size_p10": 13.0,
+   "font_size_p90": 13.0,
+   "font_size_min": 9,
+   "font_size_max": 46.96381578947364,
+   "font_size_mode": [
+    [
+     13,
+     133
+    ],
+    [
+     10,
+     5
+    ],
+    [
+     23.58098602294922,
+     4
+    ]
+   ],
+   "chars_median": 6.0,
+   "chars_p10": 3.2,
+   "chars_p90": 9.0,
+   "chars_min": 1,
+   "chars_max": 12,
+   "chars_buckets": {
+    "<=4": 35,
+    "5-8": 93,
+    "9-12": 25,
+    "13-16": 0,
+    ">16": 0
+   },
+   "dur_median": 1.6,
+   "dur_p90": 5.8,
+   "y_median": -0.29,
+   "y_p10": -0.29,
+   "y_p90": -0.29,
+   "screen_below_center_pct": 14.5,
+   "x_median": 0.0,
+   "white_pct": 5.9,
+   "colored_pct": 94.1,
+   "color_top": [
+    [
+     "#fff589",
+     128
+    ],
+    [
+     "#ffffff",
+     9
+    ],
+    [
+     "#ffde00",
+     9
+    ],
+    [
+     "#ffa800",
+     4
+    ],
+    [
+     "#b71c1c",
+     1
+    ],
+    [
+     "#fe5252",
+     1
+    ]
+   ],
+   "shadow_pct": 100.0,
+   "stroke_pct": 0.0,
+   "bg_pct": 0.0,
+   "scale_gt1_pct": 7.8,
+   "anim_pct": 16.3,
+   "anim_dur_median": 500.0,
+   "fonts": [
+    [
+     "金陵体",
+     15
+    ],
+    [
+     "雅月体",
+     8
+    ],
+    [
+     "新青年体",
+     5
+    ],
+    [
+     "江湖体",
+     3
+    ]
+   ],
+   "template_pct": 0.0,
+   "align": [
+    [
+     null,
+     153
+    ]
+   ]
+  }
+ },
+ "drafts": {
+  "10月21日": {
+   "n": 19,
+   "font_size_median": 11.0,
+   "font_size_p10": 11.0,
+   "font_size_p90": 11.0,
+   "font_size_min": 11,
+   "font_size_max": 11,
+   "font_size_mode": [
+    [
+     11,
+     19
+    ]
+   ],
+   "chars_median": 5.0,
+   "chars_p10": 4.0,
+   "chars_p90": 8.0,
+   "chars_min": 3,
+   "chars_max": 9,
+   "chars_buckets": {
+    "<=4": 3,
+    "5-8": 15,
+    "9-12": 1,
+    "13-16": 0,
+    ">16": 0
+   },
+   "dur_median": 1.53,
+   "dur_p90": 1.81,
+   "y_median": -0.29,
+   "y_p10": -0.29,
+   "y_p90": -0.29,
+   "screen_below_center_pct": 14.5,
+   "x_median": 0.0,
+   "white_pct": 100.0,
+   "colored_pct": 0.0,
+   "color_top": [
+    [
+     "#ffffff",
+     19
+    ]
+   ],
+   "shadow_pct": 100.0,
+   "stroke_pct": 0.0,
+   "bg_pct": 0.0,
+   "scale_gt1_pct": 0.0,
+   "anim_pct": 0.0,
+   "anim_dur_median": null,
+   "fonts": [
+    [
+     "抖音美好体",
+     19
+    ]
+   ],
+   "template_pct": 0.0,
+   "align": [
+    [
+     1,
+     19
+    ]
+   ]
+  },
+  "4月23日": {
+   "n": 164,
+   "font_size_median": 13.0,
+   "font_size_p10": 13.0,
+   "font_size_p90": 13.0,
+   "font_size_min": 13,
+   "font_size_max": 28,
+   "font_size_mode": [
+    [
+     13,
+     156
+    ],
+    [
+     22,
+     2
+    ],
+    [
+     16,
+     1
+    ]
+   ],
+   "chars_median": 6.0,
+   "chars_p10": 3.3,
+   "chars_p90": 10.0,
+   "chars_min": 2,
+   "chars_max": 31,
+   "chars_buckets": {
+    "<=4": 28,
+    "5-8": 103,
+    "9-12": 32,
+    "13-16": 0,
+    ">16": 1
+   },
+   "dur_median": 0.93,
+   "dur_p90": 1.61,
+   "y_median": -0.21,
+   "y_p10": -0.21,
+   "y_p90": -0.21,
+   "screen_below_center_pct": 10.5,
+   "x_median": 0.0,
+   "white_pct": 98.8,
+   "colored_pct": 1.2,
+   "color_top": [
+    [
+     "#ffffff",
+     162
+    ],
+    [
+     "#b71c1c",
+     2
+    ]
+   ],
+   "shadow_pct": 98.8,
+   "stroke_pct": 0.0,
+   "bg_pct": 2.4,
+   "scale_gt1_pct": 0.0,
+   "anim_pct": 3.0,
+   "anim_dur_median": 300.0,
+   "fonts": [
+    [
+     "新青年体",
+     155
+    ],
+    [
+     "抖音美好体",
+     4
+    ],
+    [
+     "特黑体",
+     3
+    ],
+    [
+     "古典体",
+     2
+    ]
+   ],
+   "template_pct": 0.0,
+   "align": [
+    [
+     null,
+     162
+    ],
+    [
+     3,
+     2
+    ]
+   ]
+  },
+  "4月8日": {
+   "n": 5,
+   "font_size_median": 8.0,
+   "font_size_p10": 8.0,
+   "font_size_p90": 11.0,
+   "font_size_min": 8,
+   "font_size_max": 13,
+   "font_size_mode": [
+    [
+     8,
+     4
+    ],
+    [
+     13,
+     1
+    ]
+   ],
+   "chars_median": 5.0,
+   "chars_p10": 2.2,
+   "chars_p90": 10.0,
+   "chars_min": 1,
+   "chars_max": 12,
+   "chars_buckets": {
+    "<=4": 2,
+    "5-8": 2,
+    "9-12": 1,
+    "13-16": 0,
+    ">16": 0
+   },
+   "dur_median": 1.57,
+   "dur_p90": 16.47,
+   "y_median": -0.38,
+   "y_p10": -0.38,
+   "y_p90": 0.19,
+   "screen_below_center_pct": 19.0,
+   "x_median": 0.0,
+   "white_pct": 100.0,
+   "colored_pct": 0.0,
+   "color_top": [
+    [
+     "#ffffff",
+     5
+    ]
+   ],
+   "shadow_pct": 80.0,
+   "stroke_pct": 0.0,
+   "bg_pct": 0.0,
+   "scale_gt1_pct": 0.0,
+   "anim_pct": 0.0,
+   "anim_dur_median": null,
+   "fonts": [
+    [
+     "新青年体",
+     5
+    ]
+   ],
+   "template_pct": 0.0,
+   "align": [
+    [
+     null,
+     5
+    ]
+   ]
+  },
+  "6月17日": {
+   "n": 46,
+   "font_size_median": 13.0,
+   "font_size_p10": 13.0,
+   "font_size_p90": 16.0,
+   "font_size_min": 13,
+   "font_size_max": 19,
+   "font_size_mode": [
+    [
+     13,
+     33
+    ],
+    [
+     16,
+     7
+    ],
+    [
+     17,
+     3
+    ]
+   ],
+   "chars_median": 6.0,
+   "chars_p10": 4.0,
+   "chars_p90": 8.0,
+   "chars_min": 3,
+   "chars_max": 10,
+   "chars_buckets": {
+    "<=4": 12,
+    "5-8": 30,
+    "9-12": 4,
+    "13-16": 0,
+    ">16": 0
+   },
+   "dur_median": 1.22,
+   "dur_p90": 2.22,
+   "y_median": -0.26,
+   "y_p10": -0.29,
+   "y_p90": -0.23,
+   "screen_below_center_pct": 13.0,
+   "x_median": 0.0,
+   "white_pct": 71.7,
+   "colored_pct": 28.3,
+   "color_top": [
+    [
+     "#ffffff",
+     33
+    ],
+    [
+     "#fff589",
+     7
+    ],
+    [
+     "#ffbf17",
+     3
+    ],
+    [
+     "#fe8a80",
+     2
+    ],
+    [
+     "#f9f3c4",
+     1
+    ]
+   ],
+   "shadow_pct": 100.0,
+   "stroke_pct": 0.0,
+   "bg_pct": 0.0,
+   "scale_gt1_pct": 0.0,
+   "anim_pct": 39.1,
+   "anim_dur_median": 500.0,
+   "fonts": [
+    [
+     "新青年体",
+     41
+    ],
+    [
+     "抖音美好体",
+     5
+    ]
+   ],
+   "template_pct": 0.0,
+   "align": [
+    [
+     null,
+     46
+    ]
+   ]
+  },
+  "7月11日": {
+   "n": 28,
+   "font_size_median": 8.0,
+   "font_size_p10": 8.0,
+   "font_size_p90": 8.0,
+   "font_size_min": 8,
+   "font_size_max": 8,
+   "font_size_mode": [
+    [
+     8,
+     24
+    ]
+   ],
+   "chars_median": 9.5,
+   "chars_p10": 4.0,
+   "chars_p90": 15.0,
+   "chars_min": 3,
+   "chars_max": 15,
+   "chars_buckets": {
+    "<=4": 4,
+    "5-8": 6,
+    "9-12": 14,
+    "13-16": 4,
+    ">16": 0
+   },
+   "dur_median": 1.8,
+   "dur_p90": 3.6,
+   "y_median": -0.05,
+   "y_p10": -0.05,
+   "y_p90": 0.25,
+   "screen_below_center_pct": 2.5,
+   "x_median": 0.0,
+   "white_pct": 85.7,
+   "colored_pct": 14.3,
+   "color_top": [
+    [
+     "#ffffff",
+     24
+    ],
+    [
+     "#fff589",
+     4
+    ]
+   ],
+   "shadow_pct": 100.0,
+   "stroke_pct": 0.0,
+   "bg_pct": 0.0,
+   "scale_gt1_pct": 0.0,
+   "anim_pct": 14.3,
+   "anim_dur_median": 500.0,
+   "fonts": [
+    [
+     "金陵体",
+     24
+    ],
+    [
+     "抖音美好体",
+     4
+    ]
+   ],
+   "template_pct": 0.0,
+   "align": [
+    [
+     null,
+     24
+    ],
+    [
+     3,
+     4
+    ]
+   ]
+  },
+  "7月11日 (1)": {
+   "n": 92,
+   "font_size_median": 11.0,
+   "font_size_p10": 11.0,
+   "font_size_p90": 11.0,
+   "font_size_min": 11,
+   "font_size_max": 14,
+   "font_size_mode": [
+    [
+     11,
+     90
+    ],
+    [
+     14,
+     2
+    ]
+   ],
+   "chars_median": 7.0,
+   "chars_p10": 4.0,
+   "chars_p90": 12.0,
+   "chars_min": 3,
+   "chars_max": 23,
+   "chars_buckets": {
+    "<=4": 17,
+    "5-8": 45,
+    "9-12": 28,
+    "13-16": 0,
+    ">16": 2
+   },
+   "dur_median": 1.48,
+   "dur_p90": 2.68,
+   "y_median": -0.29,
+   "y_p10": -0.29,
+   "y_p90": -0.29,
+   "screen_below_center_pct": 14.5,
+   "x_median": 0.0,
+   "white_pct": 97.8,
+   "colored_pct": 2.2,
+   "color_top": [
+    [
+     "#ffffff",
+     90
+    ],
+    [
+     "#fff589",
+     2
+    ]
+   ],
+   "shadow_pct": 100.0,
+   "stroke_pct": 0.0,
+   "bg_pct": 0.0,
+   "scale_gt1_pct": 0.0,
+   "anim_pct": 0.0,
+   "anim_dur_median": null,
+   "fonts": [
+    [
+     "抖音美好体",
+     73
+    ],
+    [
+     "金陵体",
+     1
+    ]
+   ],
+   "template_pct": 0.0,
+   "align": [
+    [
+     null,
+     92
+    ]
+   ]
+  },
+  "9月10日": {
+   "n": 305,
+   "font_size_median": 12.0,
+   "font_size_p10": 12.0,
+   "font_size_p90": 18.0,
+   "font_size_min": 10,
+   "font_size_max": 24,
+   "font_size_mode": [
+    [
+     12,
+     88
+    ],
+    [
+     14.76315689086914,
+     28
+    ],
+    [
+     16,
+     24
+    ]
+   ],
+   "chars_median": 6.0,
+   "chars_p10": 2.0,
+   "chars_p90": 9.0,
+   "chars_min": 2,
+   "chars_max": 12,
+   "chars_buckets": {
+    "<=4": 98,
+    "5-8": 157,
+    "9-12": 50,
+    "13-16": 0,
+    ">16": 0
+   },
+   "dur_median": 1.57,
+   "dur_p90": 2.82,
+   "y_median": -0.33,
+   "y_p10": -0.4,
+   "y_p90": -0.16,
+   "screen_below_center_pct": 16.5,
+   "x_median": 0.0,
+   "white_pct": 53.1,
+   "colored_pct": 46.9,
+   "color_top": [
+    [
+     "#ffffff",
+     162
+    ],
+    [
+     "#fff589",
+     57
+    ],
+    [
+     "#fe8a80",
+     29
+    ],
+    [
+     "#f9f3c4",
+     20
+    ],
+    [
+     "#fe5252",
+     9
+    ],
+    [
+     "#469df3",
+     8
+    ]
+   ],
+   "shadow_pct": 100.0,
+   "stroke_pct": 38.7,
+   "bg_pct": 0.0,
+   "scale_gt1_pct": 55.4,
+   "anim_pct": 76.1,
+   "anim_dur_median": 300.0,
+   "fonts": [
+    [
+     "字语云黑宋",
+     127
+    ],
+    [
+     "新青年体",
+     94
+    ],
+    [
+     "后现代体",
+     27
+    ],
+    [
+     "抖音美好体",
+     19
+    ]
+   ],
+   "template_pct": 0.0,
+   "align": [
+    [
+     null,
+     305
+    ]
+   ]
+  },
+  "9月10日-副本": {
+   "n": 29,
+   "font_size_median": 12.0,
+   "font_size_p10": 12.0,
+   "font_size_p90": 12.0,
+   "font_size_min": 12,
+   "font_size_max": 14,
+   "font_size_mode": [
+    [
+     12,
+     27
+    ],
+    [
+     14,
+     1
+    ],
+    [
+     13,
+     1
+    ]
+   ],
+   "chars_median": 6.0,
+   "chars_p10": 2.0,
+   "chars_p90": 9.2,
+   "chars_min": 2,
+   "chars_max": 11,
+   "chars_buckets": {
+    "<=4": 6,
+    "5-8": 17,
+    "9-12": 6,
+    "13-16": 0,
+    ">16": 0
+   },
+   "dur_median": 1.63,
+   "dur_p90": 2.42,
+   "y_median": -0.33,
+   "y_p10": -0.33,
+   "y_p90": 0.14,
+   "screen_below_center_pct": 16.5,
+   "x_median": 0.0,
+   "white_pct": 75.9,
+   "colored_pct": 24.1,
+   "color_top": [
+    [
+     "#ffffff",
+     22
+    ],
+    [
+     "#fff589",
+     7
+    ]
+   ],
+   "shadow_pct": 100.0,
+   "stroke_pct": 0.0,
+   "bg_pct": 0.0,
+   "scale_gt1_pct": 10.3,
+   "anim_pct": 13.8,
+   "anim_dur_median": 500.0,
+   "fonts": [
+    [
+     "抖音美好体",
+     26
+    ],
+    [
+     "研宋体",
+     2
+    ],
+    [
+     "字由新意手写体",
+     1
+    ]
+   ],
+   "template_pct": 0.0,
+   "align": [
+    [
+     null,
+     29
+    ]
+   ]
+  },
+  "9月11日杨总": {
+   "n": 139,
+   "font_size_median": 11.0,
+   "font_size_p10": 11.0,
+   "font_size_p90": 11.0,
+   "font_size_min": 8,
+   "font_size_max": 21.733552631578902,
+   "font_size_mode": [
+    [
+     11,
+     131
+    ],
+    [
+     21.733552631578902,
+     3
+    ],
+    [
+     12.733552932739258,
+     2
+    ]
+   ],
+   "chars_median": 8.0,
+   "chars_p10": 4.0,
+   "chars_p90": 11.0,
+   "chars_min": 1,
+   "chars_max": 17,
+   "chars_buckets": {
+    "<=4": 15,
+    "5-8": 63,
+    "9-12": 58,
+    "13-16": 2,
+    ">16": 1
+   },
+   "dur_median": 1.73,
+   "dur_p90": 2.77,
+   "y_median": -0.56,
+   "y_p10": -0.56,
+   "y_p90": -0.56,
+   "screen_below_center_pct": 28.0,
+   "x_median": 0.0,
+   "white_pct": 100.0,
+   "colored_pct": 0.0,
+   "color_top": [
+    [
+     "#ffffff",
+     139
+    ]
+   ],
+   "shadow_pct": 98.6,
+   "stroke_pct": 0.0,
+   "bg_pct": 0.0,
+   "scale_gt1_pct": 0.0,
+   "anim_pct": 6.5,
+   "anim_dur_median": 683.3,
+   "fonts": [
+    [
+     "抖音美好体",
+     56
+    ],
+    [
+     "金陵体",
+     6
+    ]
+   ],
+   "template_pct": 0.0,
+   "align": [
+    [
+     null,
+     139
+    ]
+   ]
+  },
+  "9月16日 (2)": {
+   "n": 12,
+   "font_size_median": 8.0,
+   "font_size_p10": 8.0,
+   "font_size_p90": 8.0,
+   "font_size_min": 8,
+   "font_size_max": 8,
+   "font_size_mode": [
+    [
+     8,
+     12
+    ]
+   ],
+   "chars_median": 8.5,
+   "chars_p10": 6.1,
+   "chars_p90": 11.0,
+   "chars_min": 4,
+   "chars_max": 12,
+   "chars_buckets": {
+    "<=4": 1,
+    "5-8": 5,
+    "9-12": 6,
+    "13-16": 0,
+    ">16": 0
+   },
+   "dur_median": 1.55,
+   "dur_p90": 2.04,
+   "y_median": -0.37,
+   "y_p10": -0.37,
+   "y_p90": -0.37,
+   "screen_below_center_pct": 18.5,
+   "x_median": -0.05,
+   "white_pct": 100.0,
+   "colored_pct": 0.0,
+   "color_top": [
+    [
+     "#ffffff",
+     12
+    ]
+   ],
+   "shadow_pct": 100.0,
+   "stroke_pct": 0.0,
+   "bg_pct": 0.0,
+   "scale_gt1_pct": 100.0,
+   "anim_pct": 0.0,
+   "anim_dur_median": null,
+   "fonts": [
+    [
+     "字语云黑宋",
+     12
+    ]
+   ],
+   "template_pct": 0.0,
+   "align": [
+    [
+     null,
+     12
+    ]
+   ]
+  },
+  "9月18日 - 副本": {
+   "n": 72,
+   "font_size_median": 12.0,
+   "font_size_p10": 12.0,
+   "font_size_p90": 12.0,
+   "font_size_min": 11,
+   "font_size_max": 24,
+   "font_size_mode": [
+    [
+     12,
+     66
+    ],
+    [
+     14,
+     2
+    ],
+    [
+     11,
+     1
+    ]
+   ],
+   "chars_median": 7.5,
+   "chars_p10": 4.0,
+   "chars_p90": 11.0,
+   "chars_min": 2,
+   "chars_max": 14,
+   "chars_buckets": {
+    "<=4": 16,
+    "5-8": 33,
+    "9-12": 19,
+    "13-16": 4,
+    ">16": 0
+   },
+   "dur_median": 1.55,
+   "dur_p90": 2.35,
+   "y_median": -0.34,
+   "y_p10": -0.34,
+   "y_p90": -0.34,
+   "screen_below_center_pct": 17.0,
+   "x_median": 0.0,
+   "white_pct": 94.4,
+   "colored_pct": 5.6,
+   "color_top": [
+    [
+     "#ffffff",
+     68
+    ],
+    [
+     "#fff589",
+     4
+    ]
+   ],
+   "shadow_pct": 100.0,
+   "stroke_pct": 0.0,
+   "bg_pct": 0.0,
+   "scale_gt1_pct": 1.4,
+   "anim_pct": 97.2,
+   "anim_dur_median": 333.3,
+   "fonts": [
+    [
+     "字语云黑宋",
+     70
+    ],
+    [
+     "抖音美好体",
+     1
+    ],
+    [
+     "古典体",
+     1
+    ]
+   ],
+   "template_pct": 0.0,
+   "align": [
+    [
+     1,
+     72
+    ]
+   ]
+  },
+  "9月22日 (4)": {
+   "n": 18,
+   "font_size_median": 8.0,
+   "font_size_p10": 8.0,
+   "font_size_p90": 15.0,
+   "font_size_min": 8,
+   "font_size_max": 17,
+   "font_size_mode": [
+    [
+     8,
+     14
+    ],
+    [
+     15,
+     2
+    ],
+    [
+     9,
+     1
+    ]
+   ],
+   "chars_median": 8.0,
+   "chars_p10": 4.0,
+   "chars_p90": 12.3,
+   "chars_min": 4,
+   "chars_max": 24,
+   "chars_buckets": {
+    "<=4": 3,
+    "5-8": 6,
+    "9-12": 7,
+    "13-16": 1,
+    ">16": 1
+   },
+   "dur_median": 2.03,
+   "dur_p90": 3.02,
+   "y_median": -0.3,
+   "y_p10": -0.3,
+   "y_p90": -0.29,
+   "screen_below_center_pct": 15.0,
+   "x_median": 0.0,
+   "white_pct": 55.6,
+   "colored_pct": 44.4,
+   "color_top": [
+    [
+     "#ffffff",
+     10
+    ],
+    [
+     "#ffde00",
+     5
+    ],
+    [
+     "#ff7100",
+     1
+    ],
+    [
+     "#ff8920",
+     1
+    ],
+    [
+     "#ff7bb0",
+     1
+    ]
+   ],
+   "shadow_pct": 100.0,
+   "stroke_pct": 0.0,
+   "bg_pct": 0.0,
+   "scale_gt1_pct": 94.4,
+   "anim_pct": 0.0,
+   "anim_dur_median": null,
+   "fonts": [
+    [
+     "新青年体",
+     15
+    ],
+    [
+     "烟波宋",
+     1
+    ],
+    [
+     "三极极宋超粗",
+     1
+    ],
+    [
+     "三极黑宋体中粗",
+     1
+    ]
+   ],
+   "template_pct": 0.0,
+   "align": [
+    [
+     1,
+     18
+    ]
+   ]
+  },
+  "9月30日": {
+   "n": 75,
+   "font_size_median": 12.0,
+   "font_size_p10": 12.0,
+   "font_size_p90": 18.0,
+   "font_size_min": 12,
+   "font_size_max": 24,
+   "font_size_mode": [
+    [
+     12,
+     35
+    ],
+    [
+     18,
+     14
+    ],
+    [
+     14,
+     3
+    ]
+   ],
+   "chars_median": 6.0,
+   "chars_p10": 4.0,
+   "chars_p90": 12.0,
+   "chars_min": 3,
+   "chars_max": 22,
+   "chars_buckets": {
+    "<=4": 17,
+    "5-8": 35,
+    "9-12": 17,
+    "13-16": 4,
+    ">16": 2
+   },
+   "dur_median": 1.17,
+   "dur_p90": 2.32,
+   "y_median": -0.36,
+   "y_p10": -0.39,
+   "y_p90": -0.2,
+   "screen_below_center_pct": 18.0,
+   "x_median": 0.0,
+   "white_pct": 54.7,
+   "colored_pct": 21.3,
+   "color_top": [
+    [
+     "#ffffff",
+     41
+    ],
+    [
+     "",
+     18
+    ],
+    [
+     "#ffbf17",
+     8
+    ],
+    [
+     "#fff589",
+     5
+    ],
+    [
+     "#ffe5a0",
+     1
+    ],
+    [
+     "#b71c1c",
+     1
+    ]
+   ],
+   "shadow_pct": 76.0,
+   "stroke_pct": 0.0,
+   "bg_pct": 0.0,
+   "scale_gt1_pct": 10.7,
+   "anim_pct": 26.7,
+   "anim_dur_median": 352.4,
+   "fonts": [
+    [
+     "字语云黑宋",
+     39
+    ],
+    [
+     "俊雅体",
+     13
+    ],
+    [
+     "金陵体",
+     3
+    ],
+    [
+     "得意黑",
+     2
+    ]
+   ],
+   "template_pct": 24.0,
+   "align": [
+    [
+     null,
+     75
+    ]
+   ]
+  },
+  "9月5日": {
+   "n": 153,
+   "font_size_median": 13.0,
+   "font_size_p10": 13.0,
+   "font_size_p90": 13.0,
+   "font_size_min": 9,
+   "font_size_max": 46.96381578947364,
+   "font_size_mode": [
+    [
+     13,
+     133
+    ],
+    [
+     10,
+     5
+    ],
+    [
+     23.58098602294922,
+     4
+    ]
+   ],
+   "chars_median": 6.0,
+   "chars_p10": 3.2,
+   "chars_p90": 9.0,
+   "chars_min": 1,
+   "chars_max": 12,
+   "chars_buckets": {
+    "<=4": 35,
+    "5-8": 93,
+    "9-12": 25,
+    "13-16": 0,
+    ">16": 0
+   },
+   "dur_median": 1.6,
+   "dur_p90": 5.8,
+   "y_median": -0.29,
+   "y_p10": -0.29,
+   "y_p90": -0.29,
+   "screen_below_center_pct": 14.5,
+   "x_median": 0.0,
+   "white_pct": 5.9,
+   "colored_pct": 94.1,
+   "color_top": [
+    [
+     "#fff589",
+     128
+    ],
+    [
+     "#ffffff",
+     9
+    ],
+    [
+     "#ffde00",
+     9
+    ],
+    [
+     "#ffa800",
+     4
+    ],
+    [
+     "#b71c1c",
+     1
+    ],
+    [
+     "#fe5252",
+     1
+    ]
+   ],
+   "shadow_pct": 100.0,
+   "stroke_pct": 0.0,
+   "bg_pct": 0.0,
+   "scale_gt1_pct": 7.8,
+   "anim_pct": 16.3,
+   "anim_dur_median": 500.0,
+   "fonts": [
+    [
+     "金陵体",
+     15
+    ],
+    [
+     "雅月体",
+     8
+    ],
+    [
+     "新青年体",
+     5
+    ],
+    [
+     "江湖体",
+     3
+    ]
+   ],
+   "template_pct": 0.0,
+   "align": [
+    [
+     null,
+     153
+    ]
+   ]
+  }
+ },
+ "anims": {
+  "产品细节": [],
+  "剧情演绎": [
+   {
+    "dir": "in",
+    "name": "渐显",
+    "ms": 683.3,
+    "n": 5
+   },
+   {
+    "dir": "in",
+    "name": "打字光标",
+    "ms": 1483.3,
+    "n": 2
+   },
+   {
+    "dir": "in",
+    "name": "向右缓入",
+    "ms": 300.0,
+    "n": 1
+   },
+   {
+    "dir": "in",
+    "name": "模糊发光",
+    "ms": 300.0,
+    "n": 1
+   },
+   {
+    "dir": "in",
+    "name": "打字机IV",
+    "ms": 3000.0,
+    "n": 1
+   },
+   {
+    "dir": "in",
+    "name": "向左滑动",
+    "ms": 300.0,
+    "n": 1
+   },
+   {
+    "dir": "in",
+    "name": "呐喊声波",
+    "ms": 300.0,
+    "n": 1
+   },
+   {
+    "dir": "in",
+    "name": "开幕",
+    "ms": 500.0,
+    "n": 1
+   },
+   {
+    "dir": "in",
+    "name": "打字光标",
+    "ms": 683.3,
+    "n": 1
+   }
+  ],
+  "干货教学": [
+   {
+    "dir": "in",
+    "name": "渐显",
+    "ms": 333.3,
+    "n": 66
+   },
+   {
+    "dir": "in",
+    "name": "渐显",
+    "ms": 300.0,
+    "n": 27
+   },
+   {
+    "dir": "in",
+    "name": "向右露出",
+    "ms": 300.0,
+    "n": 25
+   },
+   {
+    "dir": "in",
+    "name": "放大",
+    "ms": 300.0,
+    "n": 15
+   },
+   {
+    "dir": "in",
+    "name": "向上滑动",
+    "ms": 300.0,
+    "n": 13
+   },
+   {
+    "dir": "in",
+    "name": "向上露出",
+    "ms": 300.0,
+    "n": 12
+   },
+   {
+    "dir": "in",
+    "name": "向上露出",
+    "ms": 500.0,
+    "n": 11
+   },
+   {
+    "dir": "in",
+    "name": "向右模糊 II",
+    "ms": 300.0,
+    "n": 9
+   },
+   {
+    "dir": "in",
+    "name": "文字渐显",
+    "ms": 300.0,
+    "n": 8
+   },
+   {
+    "dir": "in",
+    "name": "缩小",
+    "ms": 300.0,
+    "n": 8
+   },
+   {
+    "dir": "in",
+    "name": "冰雪飘动",
+    "ms": 300.0,
+    "n": 7
+   },
+   {
+    "dir": "in",
+    "name": "折叠",
+    "ms": 300.0,
+    "n": 6
+   }
+  ],
+  "招商发布": [
+   {
+    "dir": "out",
+    "name": "渐隐",
+    "ms": 500.0,
+    "n": 4
+   },
+   {
+    "dir": "in",
+    "name": "向右滑动",
+    "ms": 500.0,
+    "n": 2
+   },
+   {
+    "dir": "in",
+    "name": "渐显",
+    "ms": 500.0,
+    "n": 2
+   }
+  ],
+  "活动促销": [
+   {
+    "dir": "in",
+    "name": "滚入",
+    "ms": 300.0,
+    "n": 1
+   },
+   {
+    "dir": "in",
+    "name": "轻微放大",
+    "ms": 500.0,
+    "n": 1
+   },
+   {
+    "dir": "in",
+    "name": "向左模糊",
+    "ms": 500.0,
+    "n": 1
+   },
+   {
+    "dir": "in",
+    "name": "向右模糊 II",
+    "ms": 400.0,
+    "n": 1
+   }
+  ],
+  "模板特效": [
+   {
+    "dir": "in",
+    "name": "光线划过",
+    "ms": 352.4,
+    "n": 1
+   },
+   {
+    "dir": "in",
+    "name": "光线划过",
+    "ms": 500.0,
+    "n": 1
+   }
+  ],
+  "品牌情感": [
+   {
+    "dir": "in",
+    "name": "向右露出",
+    "ms": 300.0,
+    "n": 3
+   },
+   {
+    "dir": "in",
+    "name": "生长",
+    "ms": 300.0,
+    "n": 3
+   },
+   {
+    "dir": "in",
+    "name": "吸入",
+    "ms": 300.0,
+    "n": 3
+   },
+   {
+    "dir": "out",
+    "name": "渐隐",
+    "ms": 500.0,
+    "n": 2
+   },
+   {
+    "dir": "in",
+    "name": "向上滑动",
+    "ms": 500.0,
+    "n": 1
+   },
+   {
+    "dir": "in",
+    "name": "向左模糊",
+    "ms": 500.0,
+    "n": 1
+   },
+   {
+    "dir": "in",
+    "name": "羽化向右擦开",
+    "ms": 500.0,
+    "n": 1
+   },
+   {
+    "dir": "in",
+    "name": "滚入",
+    "ms": 300.0,
+    "n": 1
+   },
+   {
+    "dir": "in",
+    "name": "雪光模糊",
+    "ms": 475.0,
+    "n": 1
+   },
+   {
+    "dir": "out",
+    "name": "渐隐",
+    "ms": 475.0,
+    "n": 1
+   }
+  ],
+  "测评挑战": [
+   {
+    "dir": "in",
+    "name": "向上滑动",
+    "ms": 500.0,
+    "n": 4
+   },
+   {
+    "dir": "in",
+    "name": "向下滑动",
+    "ms": 500.0,
+    "n": 3
+   },
+   {
+    "dir": "out",
+    "name": "渐隐",
+    "ms": 500.0,
+    "n": 3
+   },
+   {
+    "dir": "in",
+    "name": "生长 II",
+    "ms": 500.0,
+    "n": 2
+   },
+   {
+    "dir": "in",
+    "name": "轻微放大",
+    "ms": 500.0,
+    "n": 2
+   },
+   {
+    "dir": "in",
+    "name": "向右缓入",
+    "ms": 500.0,
+    "n": 2
+   },
+   {
+    "dir": "in",
+    "name": "向下露出",
+    "ms": 500.0,
+    "n": 2
+   },
+   {
+    "dir": "in",
+    "name": "跃进",
+    "ms": 500.0,
+    "n": 1
+   },
+   {
+    "dir": "in",
+    "name": "吸入",
+    "ms": 500.0,
+    "n": 1
+   },
+   {
+    "dir": "in",
+    "name": "收拢",
+    "ms": 500.0,
+    "n": 1
+   },
+   {
+    "dir": "in",
+    "name": "生长",
+    "ms": 500.0,
+    "n": 1
+   },
+   {
+    "dir": "in",
+    "name": "文字渐显",
+    "ms": 500.0,
+    "n": 1
+   }
+  ]
+ },
+ "colors_by_type": {},
+ "semantic": {
+  "数字/价格/时间": {
+   "n": 109,
+   "share_pct": 9.6,
+   "colored_pct": 33.9,
+   "anim_pct": 22.0,
+   "bigger_pct": 11.0,
+   "stroke_pct": 0.0,
+   "median_chars": 9.0,
+   "sample": [
+    "一年租金20多万丢在这里",
+    "上次说的问题到今天",
+    "而且那个货你要卖199"
+   ]
+  },
+  "疑问句": {
+   "n": 79,
+   "share_pct": 6.9,
+   "colored_pct": 31.6,
+   "anim_pct": 39.2,
+   "bigger_pct": 8.9,
+   "stroke_pct": 26.6,
+   "median_chars": 7.0,
+   "sample": [
+    "扣子用的是什么料",
+    "你怎么定",
+    "怎么做"
+   ]
+  },
+  "否定/转折": {
+   "n": 178,
+   "share_pct": 15.6,
+   "colored_pct": 32.6,
+   "anim_pct": 35.4,
+   "bigger_pct": 17.4,
+   "stroke_pct": 14.0,
+   "median_chars": 7.0,
+   "sample": [
+    "缝的牢不牢",
+    "拉链拉起来顺不顺",
+    "会不会卡顿"
+   ]
+  },
+  "序号/清单": {
+   "n": 64,
+   "share_pct": 5.6,
+   "colored_pct": 17.2,
+   "anim_pct": 34.4,
+   "bigger_pct": 14.1,
+   "stroke_pct": 7.8,
+   "median_chars": 4.5,
+   "sample": [
+    "你最后",
+    "第一个老阿姨接待",
+    "第二个（楼上）打麻将"
+   ]
+  },
+  "行动号召": {
+   "n": 22,
+   "share_pct": 1.9,
+   "colored_pct": 36.4,
+   "anim_pct": 13.6,
+   "bigger_pct": 18.2,
+   "stroke_pct": 0.0,
+   "median_chars": 7.0,
+   "sample": [
+    "评论区扣实体",
+    "评论区留言“集合”",
+    "评论区留言“集合”"
+   ]
+  },
+  "对比结构": {
+   "n": 13,
+   "share_pct": 1.1,
+   "colored_pct": 23.1,
+   "anim_pct": 61.5,
+   "bigger_pct": 23.1,
+   "stroke_pct": 0.0,
+   "median_chars": 9.0,
+   "sample": [
+    "不如停下来",
+    "那不如停下来",
+    "而是看顾客能不能穿"
+   ]
+  }
+ },
+ "plain_n": 1139,
+ "total": 1157
+}

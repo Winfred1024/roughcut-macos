@@ -1,0 +1,5 @@
+# 环境 A：写剪映草稿（jyenv）。Python 3.12 / win_amd64 实测通过。
+pyjianyingdraft==0.3.0
+pymediainfo==7.0.1
+pillow==13.0.0
+numpy==2.5.4

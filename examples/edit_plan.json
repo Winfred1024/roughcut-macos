@@ -1,0 +1,13 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "clips": [
+    {
+      "source": "/请替换为实际路径/素材.mov",
+      "start": 1.0,
+      "end": 4.0,
+      "subtitles": [{"start": 1.2, "end": 3.5, "text": "请替换为这段素材的实际口播"}]
+    }
+  ]
+}

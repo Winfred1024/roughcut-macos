@@ -1,0 +1,4 @@
+faster-whisper==1.2.1
+# Keep faster-whisper's supported transitive dependency constraints.
+ctranslate2>=4,<5
+numpy>=2,<3

@@ -1,0 +1,8 @@
+# 环境 B：本地语音识别（asrenv）。与 jyenv 必须分开，torch/av/numpy 会打架。
+faster-whisper==1.2.1
+ctranslate2==4.8.3
+numpy==2.5.4
+av==19.0.1
+onnxruntime==1.31.0
+tokenizers==0.23.3
+huggingface_hub==2.2.0

@@ -1,0 +1,319 @@
+{
+  "bundle": "粗剪skill部署包_v1",
+  "created_at": "2026-10-24 14:13:22",
+  "file_count": 62,
+  "total_bytes": 2637445,
+  "total_human": "0.00 GB",
+  "files": [
+    {
+      "path": ".gitignore",
+      "size": 361,
+      "sha256": "ca5fba2435d704a24064b3ede08938decd98747452846a09d5c912b342bda521"
+    },
+    {
+      "path": "README.md",
+      "size": 3894,
+      "sha256": "f9e612e76696d1a930f8203361e3328f94327d3e54fb9d1bb4df1c8c32f0d4de"
+    },
+    {
+      "path": "START_HERE.md",
+      "size": 184,
+      "sha256": "7f6d56f2386d9819600fa6cb7210d85afd6b23b1cc920abb59dcda90c082fcb9"
+    },
+    {
+      "path": "START_HERE_WINDOWS.md",
+      "size": 11725,
+      "sha256": "97a976f8b8bc6cb3094653321dc5971d99af4594df33b64c44b166a35a771808"
+    },
+    {
+      "path": "VALIDATION.md",
+      "size": 2786,
+      "sha256": "e1339f5dd3006c3a96b5530e833c62f3dd8cd15939948463407b00f8ce891810"
+    },
+    {
+      "path": "deploy/checks/check_asr.py",
+      "size": 1416,
+      "sha256": "014d344ae2e2dd9c3c70a3b38be88401ccf772078ebdf7e15bd3705ec8886f0e"
+    },
+    {
+      "path": "deploy/checks/check_draft_subtitle.py",
+      "size": 1401,
+      "sha256": "25c243744b1a447cc5ec41f1d099ffe674ce88f9a2048bc8ef7a4859b3f1885d"
+    },
+    {
+      "path": "deploy/checks/make_sample.py",
+      "size": 1294,
+      "sha256": "6d56b06de86111fa42a24581c2e59d6af546b23531bc04ada72d4deda9fd5259"
+    },
+    {
+      "path": "deploy/install.cmd",
+      "size": 1163,
+      "sha256": "edffb70cdff2cc6d2373b73a038ce36af1c6703cca35d76aeefaa66f0f35c97d"
+    },
+    {
+      "path": "deploy/install.py",
+      "size": 32969,
+      "sha256": "1c19a50df09120cc3a3dff34cef160b6ba46822be79da6b4b5d82d7e571f780e"
+    },
+    {
+      "path": "deploy/install_macos.py",
+      "size": 8257,
+      "sha256": "3468cd33a6821774bfa6449d6b51b65a73c038df9fd49793dc364f8b316e80c4"
+    },
+    {
+      "path": "deploy/launch.py",
+      "size": 993,
+      "sha256": "ae802f818fd1fd5a8788e296420f74b3fb29611d0bc88401853ef07358d4ef70"
+    },
+    {
+      "path": "deploy/mac_common.py",
+      "size": 3718,
+      "sha256": "a2a518034307041a7e0b71a5d75c43e965026a5e0540a536e67bd69ccb1f90a3"
+    },
+    {
+      "path": "deploy/make_manifest.py",
+      "size": 1903,
+      "sha256": "11bf9772af23c602cc83cb0285adce69a01d3add2b9bc5052dc19fc792b79077"
+    },
+    {
+      "path": "deploy/requirements-asr-macos-arm64.lock.txt",
+      "size": 384,
+      "sha256": "43de526fef14cb42fb5d1d51278695fcc08bb1de825b9f42beb01b636c791dd8"
+    },
+    {
+      "path": "deploy/requirements-asr-macos.txt",
+      "size": 121,
+      "sha256": "e71873a224e66f33948775a4db7eea6fe701845a0f55b9bf0b6359fccf630959"
+    },
+    {
+      "path": "deploy/requirements-asr.txt",
+      "size": 226,
+      "sha256": "c5f96cc066d242a05b5d195fae5f927996aab526ec9626708b05c5e84bba36d3"
+    },
+    {
+      "path": "deploy/requirements-jy-macos-arm64.lock.txt",
+      "size": 86,
+      "sha256": "7e55508091b53183b72d8dfddd05f8c4748a78bb6901ed6ec8df8cc659c24e89"
+    },
+    {
+      "path": "deploy/requirements-jy-macos.txt",
+      "size": 153,
+      "sha256": "cb1844ccc3c49ac172cf64fc8e05097116e2900dd87a0747ab191ce6072dbabc"
+    },
+    {
+      "path": "deploy/requirements-jy.txt",
+      "size": 152,
+      "sha256": "e09a58ca96fe7b97acab481fa6c8dda17c73f88a47f915e0971a3bb5d0863485"
+    },
+    {
+      "path": "deploy/verify.cmd",
+      "size": 354,
+      "sha256": "897e0f195cb0ec8902b5acb02974b3411ffe6498aa10d74edcd6c5aec70975c5"
+    },
+    {
+      "path": "deploy/verify.py",
+      "size": 12701,
+      "sha256": "76eedab8ddc726ac72b22888c0ac3efcc5aa0f2cefcb850ff4c0dad7313c8c62"
+    },
+    {
+      "path": "deploy/verify_macos.py",
+      "size": 7410,
+      "sha256": "82c77d2e9896633ac7ad1d4afae3e9d85f6cd293c9479e0761354b0582f6c9b5"
+    },
+    {
+      "path": "examples/edit_plan.json",
+      "size": 274,
+      "sha256": "63c4cccfcba434741ebd6f01033e6d2aaceef1ece0a18047a7391b12fd331978"
+    },
+    {
+      "path": "install.command",
+      "size": 135,
+      "sha256": "5a055a61244ba87ede3e31b206689268c5765332ad23cc02cee4319db8946190"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/SKILL.md",
+      "size": 24089,
+      "sha256": "bf6e910a50cacb163f3a7e8145199867c0b10122e8d3a0bf06812a4fd9ee1891"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/agents/openai.yaml",
+      "size": 309,
+      "sha256": "b9465fd8b13f550a362bdd2b009a59c843290205f356ba5074d735185d13988e"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/references/cut-boundary-padding.md",
+      "size": 2843,
+      "sha256": "566065d5bb1a81ad778c7c857c05330624ff97ff12083e4852f5a0986026ffe1"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/references/env-and-pitfalls.md",
+      "size": 5121,
+      "sha256": "aa67d2ff92df0686fc0364c4728f0cb14a59e39c3cf0c2257898aff174339f6d"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/references/jianying-subtitle-module.md",
+      "size": 5483,
+      "sha256": "19e1eb79d58dc933f3f112524aeee189c6603832658c3e1cf5bc6838a98286c1"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/references/macos.md",
+      "size": 3729,
+      "sha256": "5e6d45d0b19989636b1bce0bbaede47fded675ccd6cb7e4da01b26511ccc65b1"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/references/subtitle-presentation-spec.md",
+      "size": 18705,
+      "sha256": "f408af48f4b0e9ab27029f1ff2dc698d7a212e7b68b51ea2a9e70038c9dc353d"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/references/subtitle-presets-v3.json",
+      "size": 4905,
+      "sha256": "7c1077cb6189e265aa2b4f868122f3d3b7072ddf9280e9d09e58781eda08ae33"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/references/subtitle-spec-v3-source/README.md",
+      "size": 2383,
+      "sha256": "df3a9e661e25f13b6686d686bdcac6118c2d5706dc66d4c507d0b676b79c72e0"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/references/subtitle-spec-v3-source/analyze.py",
+      "size": 7198,
+      "sha256": "be8c461bb8cd8ed0f2bfdc6da4d3f8a23b2320aaebe4c30305481e7ac09cd581"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/references/subtitle-spec-v3-source/analyze2.py",
+      "size": 6186,
+      "sha256": "011066eace515beea63924319602d25f6b5542486dade6d3a0f7a3ffe5aad763"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/references/subtitle-spec-v3-source/build_docx.py",
+      "size": 62706,
+      "sha256": "b9071cb603f48aa0a1589a8ced51878b965b46403abc72accc29a7184e7a12ca"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/references/subtitle-spec-v3-source/extract/doc_data.json",
+      "size": 25358,
+      "sha256": "fa56e5f9ec87424ac192b4495840f7cec515b24bd9c914e52da5a0147e9e2158"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/references/subtitle-spec-v3-source/extract/drafts.json",
+      "size": 6032,
+      "sha256": "3e57e619e8784a52582712fc1721535373f72a26954e59d620907eff613b1fd2"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/references/subtitle-spec-v3-source/extract/overview.json",
+      "size": 15771,
+      "sha256": "bfe3b91f884bae2944c571781ea4844dd173acc7bee47c094957fbca36d6c8e5"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/references/subtitle-spec-v3-source/extract/report.json",
+      "size": 34348,
+      "sha256": "b0644b1cd065a285d6a5ebae04d24be2d30095033375bb0c0851d29b5e6ce459"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/references/subtitle-spec-v3-source/extract/report2.json",
+      "size": 5560,
+      "sha256": "c832b5f78b4faf5b991d47de357860b2b551b5e132d004752a2f0a2c4026d0ae"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/references/subtitle-spec-v3-source/extract/segments.csv",
+      "size": 517949,
+      "sha256": "e93cf9c1deff6c09515428695abdb81dfcde3ac819291339b6ec6291cea5859d"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/references/subtitle-spec-v3-source/extract/segments.json",
+      "size": 1384976,
+      "sha256": "49430b23d3550fedc623182c5f6389c56111dee9603ae9986813b3901909f31d"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/references/subtitle-spec-v3-source/extract_segments.py",
+      "size": 6880,
+      "sha256": "ef1a1065c58b68c2f114072d0a69bf1c27f2e2efec960305213a7c667e6a41e2"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/references/subtitle-spec-v3-source/prepare_doc_data.py",
+      "size": 3988,
+      "sha256": "d5a3fec06d609a740de958ea369de909f274dff9ac994480d3ec9f377b991965"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/references/subtitle-style-details-v3.xlsx",
+      "size": 154642,
+      "sha256": "23b317e88095968c078e4076b088beaac4f8cf72888999086240987ca73f0d2a"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/references/subtitle-style-details.xlsx",
+      "size": 75755,
+      "sha256": "083e93ed4a8e1acf22da19865f9d0f54a53b11a252570bc27a072e328de94af6"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/references/剪映字幕呈现规范_v3.docx",
+      "size": 66929,
+      "sha256": "1caf2554f9c9c288a29f0592c933f3584876578c422808991cd686a930d4bc06"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/references/字幕呈现规范_v3.md",
+      "size": 37635,
+      "sha256": "536cde35a8bcc4f256144adcde85ba11c43276954178062ebf118ea4b4fcc9c6"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/scripts/mac_draft.py",
+      "size": 1614,
+      "sha256": "6e0a1f6ef17d3b430a8c46643588317b9960b320fae61ca8f361f9b1fee68245"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/scripts/roughcut_cli.py",
+      "size": 10672,
+      "sha256": "e0090605d3cf9d83367d5d42f6acfee21d3e861740e4c1cf2222bbb446b0d6c3"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/scripts/subtitle_module.py",
+      "size": 19352,
+      "sha256": "07b8a09f6bddac3c03ebb208f1a1501d3b6c73b37f94b24ab5d3c425af17ac0c"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/setup/README.md",
+      "size": 8435,
+      "sha256": "864200497b2d23e21b9a6ad1a6f86bdce9938c8bb444236e6b3eb1d0e84090ec"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/setup/check_env.py",
+      "size": 9119,
+      "sha256": "fcadf3d15a31f9187c067e3f9e55de22ab555531bf38ac7ecb95f27ff3f65f77"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/setup/smoke/_paths.py",
+      "size": 2555,
+      "sha256": "62e5fa7bb883ea1452b7f24f61acc8e4e5a426c40eee60cdd78b357225ae255e"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/setup/smoke/smoke_asr.py",
+      "size": 1457,
+      "sha256": "f2095f3e709f59dcf39494503d0917555cf347cdd937f12c25efb1ce92b96cd6"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/setup/smoke/smoke_draft.py",
+      "size": 1647,
+      "sha256": "f6c8e137869024d60df126f72f3d58cbd78f22669fff8128942dc6617743f26e"
+    },
+    {
+      "path": "payload/skill/local-video-rough-cut-jianying/setup/smoke/smoke_probe.py",
+      "size": 1299,
+      "sha256": "b383bde89c7e5b67b2572575497976001bf15b7e9691057f10277080fc6ef81f"
+    },
+    {
+      "path": "run.sh",
+      "size": 128,
+      "sha256": "0d1144dc44b8176d89b53d3b09c956daec20bc54e1742addcf8e753914721f67"
+    },
+    {
+      "path": "tests/test_runtime.py",
+      "size": 7493,
+      "sha256": "ac1834f5262527b37df9a909db72f5270569f4c7625a0ff29903553228500a78"
+    },
+    {
+      "path": "verify.command",
+      "size": 134,
+      "sha256": "29122e179052a53adb855002e5d0ac91f7c4fa900672be47e95ea582889fac1d"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+# Local runtimes and generated files
+__pycache__/
+*.py[cod]
+*.bak-*/
+.venv/
+venv/
+.cache/
+.pytest_cache/
+.DS_Store
+.env
+.env.*
+!.env.example
+install-report.json
+verify-report.json
+app-acceptance-report.json
+detected.json
+# Downloaded weights, installers and media are not source code
+models/
+vendor/
+*.bin
+*.dmg
+*.pkg
+*.exe
+*.mp4
+*.mov
+*.mp3
+*.wav
+*.aiff
+*.zip

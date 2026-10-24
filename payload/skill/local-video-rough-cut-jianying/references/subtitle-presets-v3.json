@@ -1,0 +1,165 @@
+{
+  "spec": "字幕呈现规范 v3",
+  "spec_version": "v3",
+  "generated": "2026-10-21",
+  "source": "references\\剪映字幕呈现规范_v3.docx 第八章 表 8-1",
+  "sample": "14 个剪映工程 / 24 条时间线 / 1,157 条字幕（服装工厂·女装实体店垂类）",
+  "usage": [
+    "按台本句式判定类型（见规范表 3-1），选一套预设",
+    "按预设建一条字幕样式，后续条目复制该样式，只改文字",
+    "按第六章语义映射给关键词换色/放大——唯一允许的逐条改动",
+    "动画只加在段落首条，其余条目保持无动画",
+    "一条视频只用一个预设；混合台本按“主要目的”选，局部覆盖不整体切换"
+  ],
+  "units": {
+    "font_size": "剪映字号（相对单位，跨分辨率一致），不是像素",
+    "y": "clip.transform.y，-1~1 相对半高；画面纵向位置 = 50% + y*50%",
+    "cps": "Characters Per Second，每秒字数",
+    "border_width": "描边宽度，0.08 为高噪背景专用值",
+    "scale": "clip.scale 放大倍数，1.0 表示不放大"
+  },
+  "presets": [
+    {
+      "id": "A",
+      "name": "干货口播",
+      "applies_to": [
+        "干货教学"
+      ],
+      "font_size": 12,
+      "font_size_note": "该类实测 11–13",
+      "font_family": "字语云黑宋",
+      "y": -0.32,
+      "text_color": "#FFFFFF",
+      "accent_color": "#FFF589",
+      "accent_scope": "关键词",
+      "border_width": 0.08,
+      "border_note": "仅高噪背景（街拍、档口），室内口播不加",
+      "scale": 1.2,
+      "scale_scope": "关键词",
+      "anim_in": {
+        "name": "渐显",
+        "ms": 300,
+        "scope": "仅章节首条"
+      },
+      "anim_out": {
+        "name": "渐隐",
+        "ms": 500
+      },
+      "chars": "5–10",
+      "chars_note": "序号独立成条",
+      "cps": 4.5
+    },
+    {
+      "id": "B",
+      "name": "剧情对话",
+      "applies_to": [
+        "剧情演绎"
+      ],
+      "font_size": 13,
+      "font_size_note": "单工程内固定，11 或 13",
+      "font_family": "新青年体",
+      "y": -0.21,
+      "text_color": "#FFFFFF",
+      "accent_color": null,
+      "accent_scope": "不做视觉强调",
+      "border_width": 0,
+      "border_note": "不用描边",
+      "scale": 1.0,
+      "scale_scope": "不用放大",
+      "anim_in": null,
+      "anim_out": null,
+      "chars": "3–7",
+      "chars_note": "跟气口切",
+      "cps": 5.7
+    },
+    {
+      "id": "C",
+      "name": "活动促销",
+      "applies_to": [
+        "活动促销"
+      ],
+      "font_size": 12,
+      "font_size_note": "主字幕 12 / 信息条 8",
+      "info_font_size": 8,
+      "font_family": "字语云黑宋",
+      "y": -0.37,
+      "text_color": "#FFFFFF",
+      "accent_color": "#FFDE00",
+      "accent_scope": "数字 / 价格",
+      "border_width": 0,
+      "border_note": "不用描边",
+      "scale": 1.3,
+      "scale_scope": "价格 1.2–1.5×",
+      "anim_in": {
+        "name": "放大",
+        "ms": 300,
+        "scope": "仅价格出现时"
+      },
+      "anim_out": null,
+      "chars": "8–11",
+      "chars_note": "信息条可双行",
+      "cps": 4.8
+    },
+    {
+      "id": "D",
+      "name": "品牌情感",
+      "applies_to": [
+        "品牌情感"
+      ],
+      "font_size": 12,
+      "font_size_note": "金句段改 18 号",
+      "quote_font_size": 18,
+      "font_family": "字语云黑宋 / 俊雅体",
+      "y": -0.39,
+      "text_color": "#FFFFFF",
+      "accent_color": "#FFBF17",
+      "accent_scope": "关键词",
+      "border_width": 0,
+      "border_note": "不用描边",
+      "scale": 1.0,
+      "scale_scope": "靠改字号而非缩放",
+      "anim_in": {
+        "name": "渐显 / 向右露出",
+        "ms": 300,
+        "scope": "金句与段落首条"
+      },
+      "anim_out": {
+        "name": "渐隐",
+        "ms": 500
+      },
+      "chars": "4–6",
+      "chars_note": "一句一行",
+      "cps": 5.2
+    },
+    {
+      "id": "E",
+      "name": "招商信息",
+      "applies_to": [
+        "招商发布"
+      ],
+      "font_size": 8,
+      "font_size_note": "主打档，画面中部信息条",
+      "font_family": "金陵体",
+      "y": -0.05,
+      "text_color": "#FFFFFF",
+      "accent_color": "#FFF589",
+      "accent_scope": "品牌名 / 人名 / 职务",
+      "border_width": 0,
+      "border_note": "不用描边",
+      "scale": 1.0,
+      "scale_scope": "不用放大",
+      "anim_in": {
+        "name": "向右滑动",
+        "ms": 500,
+        "scope": "偏正式，慢一档"
+      },
+      "anim_out": {
+        "name": "渐隐",
+        "ms": 500
+      },
+      "chars": "9–15",
+      "chars_note": "可双行",
+      "cps": 5.0
+    }
+  ]
+}
